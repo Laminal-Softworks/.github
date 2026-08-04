@@ -3,28 +3,17 @@
 laminal softworks is an independent software organization focused on building 
 high-performance tools, developer infrastructure, and experimental systems.
 
-we create software with an emphasis on thoughtful design, efficiency and long-term maintainability.
+## flagship projects
+- **razator**: next-generation upcoming lua(u) obfuscation and optimization tooling
 
-## projects
-
-### razator
-a next-generation upcoming lua(u) obfuscation platform built around advanced
-transformations, intermediate representations, and optimization techniques.
-
-more projects are planned.
-
-## philosophy
-we believe software should be:
-
-- **purposeful** - every component should have a reason to exist
-- **efficient** - performance matters
-- **maintainable** - good engineering survives beyond the first release
-- **innovative** - existing solutions are not always the final answer.
+## principles
+- simple designs over unnecessary complexity
+- performance without sacrificing correctness
+- software built to last
 
 ## contributing
 contributions, discussions, and ideas are welcome. individual projects may have
 their own contribution guidelines.
 
 ## links
-- website: coming soon
-- discord: coming soon
+- discord: https://discord.gg/smRCdt9Dpm
